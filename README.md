@@ -68,4 +68,7 @@ O Shape possui uma página tutorial, onde você pode aprender como usa-lo corret
 - Fake api
 - Data-AOS
 - Framer-motion
-
+- Material-ui 
+- Typescript
+- React-lottie
+- React-modal
